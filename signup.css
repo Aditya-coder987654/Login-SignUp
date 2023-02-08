@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400&display=swap');
+a{
+    text-decoration: none;
+    color:white;
+}
+
+body{
+    background-color: rgba(242, 240, 240, 0.932);
+    
+}
+
+#logoicon{
+    width:40px;
+    margin:20px 10px 5px 15px;
+}
+
+#collegemate{
+    display:inline;
+    box-sizing: border-box;
+    margin-left:10px;
+    font-family:'Montserrat', sans-serif;
+    text-align: center;
+    color: rgb(248, 61, 51);
+}
+
+.signup{
+    width:400px;
+    height:550px;
+    margin:auto ;
+    margin-top:50px;
+    border-radius:10px;
+    border-color: white;
+    border-style: solid;
+    background-color: white;
+    box-shadow: 10px 10px black;
+}
+
+.userinfo{
+    box-sizing: border-box;
+    width:95%;
+    height:1.5cm;
+    margin:0px 10px ;
+    margin-bottom: 20px;
+    padding-top: 15px;
+    padding-left:15px;
+    border-color:white;
+    border-style:none;
+    border-bottom:1px solid black ;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+}
+
+.userinfo{
+    box-sizing: border-box;
+    width:95%;
+    height:1.5cm;
+    margin:0px 10px ;
+    margin-bottom: 20px;
+    padding-top: 15px;
+    padding-left:15px;
+    border-color:white;
+    border-style:none;
+    border-bottom:1px solid black ;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+}
+
+#text1{
+    text-align: center;
+    font-size: 15px;
+    font-family:'Montserrat', sans-serif; 
+}
+
+#heading{
+    width : 1cm;
+    margin:auto;
+    color:rgb(0, 0, 0);
+    font-family: 'Montserrat', sans-serif;
+    font-size: large;
+    font-weight: bold;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.btn{
+    width: 4cm;
+    height: 1cm;
+    margin:auto;
+    margin-left: 125px;
+    background-color: rgb(37, 104, 248);
+    border-color: rgb(37, 104, 248);
+    border-radius:5px;
+    color:white;
+    font-family:'Montserrat', sans-serif; 
+    font-size: 20px;
+    font-weight: 200;
+}
+
+#signupbtn{
+    background-color: rgb(237, 56, 56);
+    border-color: rgb(237, 56, 56);
+}
+
